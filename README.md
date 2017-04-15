@@ -8,3 +8,5 @@ Heuristics to be added are a variation of Helsgaun's Lin Kernighan implementatio
 The module includes a basic GUI, but in lieu of this, it may be driven from the command line;
 simply remove the relevant comments in TSP.kt. From the command line, the module takes two
 arguments: the pathname to the file, and one of three heuristic abbreviations (nn, ni, and greedy).
+
+To run as-is, simply execute the .jar file in out/artifacts.
